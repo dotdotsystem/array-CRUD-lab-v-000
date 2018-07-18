@@ -3,7 +3,7 @@ my_array = []
 end
 
 def create_an_array
-  my_array = {" ", " ", " ", " "}
+  my_array = [" ", " ", " ", " "]
 
 end
 
